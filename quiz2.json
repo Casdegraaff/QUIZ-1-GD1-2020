@@ -1,54 +1,58 @@
 {
-    "quizID": "Corona",
+    "quizID": "Minecraft",
     "quizMetaData":
     {
-        "title": "Corona Virus Knowledge",
-        "imageURI": "https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+        "title": "The Ultimate Minecraft Quiz"
+        
 
     },
     "quizContent":
     [ 
-        {   "question": "How long does the covid-19 survive outside the body??",
+        {   "question": "What year was Minecraft released?",
             "answers": [{
-                    "answer": "A week in the air and on surfaces",
+                    "answer": "2012",
                     "feedback": false
                 },
                 {
-                    "answer": "Several hours to days",
+                    "answer": "2009",
                     "feedback": true
                 },
                 {
-                    "answer": "Up to two and a half weeks",
+                    "answer": "2005",
                     "feedback": false
                 }
             ]
         },
-        {   "question": "What’s more important for preventing infection?",
+        {   "question": "How do you beat Minecraft?",
             "answers": [{
-                    "answer": "Frequent hand-washing",
-                    "feedback": true
+                    "answer": "By killing the Wither",
+                    "feedback": false
                 },
                 {
-                    "answer": "Wearing a face mask",
+                    "answer": "By obtaining every block in the game",
                     "feedback": false
+                },
+                {
+                    "answer": "By killing the Ender Dragon",
+                    "feedback": true
                 }
             ]
         },
-        {   "question": "Who’s at highest risk of developing severe Covid-19 disease?",
+        {   "question": "Which of these animals can't kill you?",
             "answers": [{
-                    "answer": "Children",
+                    "answer": "Rabbit",
                     "feedback": false
                 },
                 {
-                    "answer": "People over 60 years of age",
+                    "answer": "Horse",
                     "feedback": true
                 },
                 {
-                    "answer": "Pregnant women",
+                    "answer": "Bee",
                     "feedback": false
                 },
                 {
-                    "answer": "Those with existing medical conditions",
+                    "answer": "Zombie",
                     "feedback": false
                 }
             ]
